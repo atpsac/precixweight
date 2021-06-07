@@ -1,0 +1,17 @@
+D:\proyectos_atp\PrecixWeightAtp\Aplication\bin\Debug\net5.0\Aplication.deps.json
+D:\proyectos_atp\PrecixWeightAtp\Aplication\bin\Debug\net5.0\Aplication.dll
+D:\proyectos_atp\PrecixWeightAtp\Aplication\bin\Debug\net5.0\ref\Aplication.dll
+D:\proyectos_atp\PrecixWeightAtp\Aplication\bin\Debug\net5.0\Aplication.pdb
+D:\proyectos_atp\PrecixWeightAtp\Aplication\bin\Debug\net5.0\Domain.dll
+D:\proyectos_atp\PrecixWeightAtp\Aplication\bin\Debug\net5.0\Persistence.dll
+D:\proyectos_atp\PrecixWeightAtp\Aplication\bin\Debug\net5.0\Domain.pdb
+D:\proyectos_atp\PrecixWeightAtp\Aplication\bin\Debug\net5.0\Persistence.pdb
+D:\proyectos_atp\PrecixWeightAtp\Aplication\obj\Debug\net5.0\Aplication.csprojAssemblyReference.cache
+D:\proyectos_atp\PrecixWeightAtp\Aplication\obj\Debug\net5.0\Aplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos_atp\PrecixWeightAtp\Aplication\obj\Debug\net5.0\Aplication.AssemblyInfoInputs.cache
+D:\proyectos_atp\PrecixWeightAtp\Aplication\obj\Debug\net5.0\Aplication.AssemblyInfo.cs
+D:\proyectos_atp\PrecixWeightAtp\Aplication\obj\Debug\net5.0\Aplication.csproj.CoreCompileInputs.cache
+D:\proyectos_atp\PrecixWeightAtp\Aplication\obj\Debug\net5.0\Aplication.csproj.CopyComplete
+D:\proyectos_atp\PrecixWeightAtp\Aplication\obj\Debug\net5.0\Aplication.dll
+D:\proyectos_atp\PrecixWeightAtp\Aplication\obj\Debug\net5.0\ref\Aplication.dll
+D:\proyectos_atp\PrecixWeightAtp\Aplication\obj\Debug\net5.0\Aplication.pdb
