@@ -13,3 +13,6 @@ D:\proyectos_atp\PrecixWeightAtp\Persistence\obj\Debug\net5.0\Persistence.pdb
 D:\proyectos_atp\PrecixWeightAtp\Persistence\bin\Debug\net5.0\Domain.dll
 D:\proyectos_atp\PrecixWeightAtp\Persistence\bin\Debug\net5.0\Domain.pdb
 D:\proyectos_atp\PrecixWeightAtp\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+D:\proyectos_atp\PrecixWeightAtp\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.json
+D:\proyectos_atp\PrecixWeightAtp\Persistence\bin\Debug\net5.0\Persistence.runtimeconfig.dev.json
+D:\proyectos_atp\PrecixWeightAtp\Persistence\obj\Debug\net5.0\Persistence.genruntimeconfig.cache

@@ -1,11 +1,15 @@
+using Aplication.Products;
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Persistence;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -25,7 +29,13 @@ namespace WebAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            // Configurando DbContext como servicio
+            services.AddDbContext<PrecixWeightDbContext>(opt =>
+            {
+                opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+            });
+            // Agregando MediatR como servicio
+            services.AddMediatR(typeof(ListProduct.Handler).Assembly);
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
